@@ -2,6 +2,9 @@
 
 My name is Alexey, I am a Python Web Developer. 
 
+### Languages and tools:
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,django,djangorestframework,postgresql)](https://skillicons.dev)
+
 ### Contact me:
 
 <p align="center">
@@ -22,4 +25,3 @@ My name is Alexey, I am a Python Web Developer.
 
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=lex1772&theme=gotham"/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
