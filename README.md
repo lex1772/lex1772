@@ -9,6 +9,14 @@ My name is Alexey, I am a Python Web Developer.
   <a href="https://t.me/alexey_romanenkov"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram" alt="Telegram"></a>
 </p>
 
+### Contact me:
+
+<p align="center">
+  <a href="https://t.me/alexey_romanenkov"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram" alt="Telegram"></a>
+  <a href="https://wa.me/79036889656"><img src="https://img.shields.io/badge/WhatsApp-dark_green?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:alexey_romanenkov@mail.ru"><img src="https://img.shields.io/badge/Email-orange?logo=mail.ru" alt="Email"></a>
+</p>
+
 ### Current Stats:
 
 </br>
