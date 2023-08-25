@@ -19,3 +19,5 @@ My name is Alexey, I am a Python Web Developer.
 
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=lex1772&show_icons=true&theme=gotham"/>
 </p>
+
+<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=lex1772&theme=gotham"/>
