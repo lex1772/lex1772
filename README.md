@@ -1,6 +1,6 @@
 ### Hi everyone! 👋
 
-My name is Alexey, I am a Web Python Developer. 
+My name is Alexey, I am a Python Web Developer. 
 
 
 ### Contact me:
