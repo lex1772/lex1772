@@ -2,13 +2,6 @@
 
 My name is Alexey, I am a Python Web Developer. 
 
-
-### Contact me:
-
-<p align="center">
-  <a href="https://t.me/alexey_romanenkov"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram" alt="Telegram"></a>
-</p>
-
 ### Contact me:
 
 <p align="center">
