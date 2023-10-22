@@ -3,7 +3,7 @@
 My name is Alexey, I am a Python Web Developer. 
 
 ### Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,django,fastapi,redis,sqlalchemy,postgresql,docker,linux,bash,powershell,git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,django,fastapi,redis,postgresql,docker,linux,bash,powershell,git,github,gitlab)](https://skillicons.dev)
 
 ### Contact me:
 
